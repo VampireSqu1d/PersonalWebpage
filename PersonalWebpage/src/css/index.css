@@ -1,0 +1,374 @@
+/*@import url("https://fonts.googleapis.com/css?family=Comfortaa:400,700,300|Quattrocento");*/
+
+@media (max-width: 5000px) and (min-width: 1199px){
+    body {
+        height: 100%;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 22px;
+    }
+
+    div {
+        padding: 5% 3%;
+    }
+
+    .navbar-brand {
+        color: aliceblue;
+    }
+
+    .navbar {
+        position: fixed;
+        z-index: 10;
+        width: 100%;
+    }
+
+    .nav-item{
+        color: white;
+        float: right;
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    .nav-item:hover {
+        opacity: 0.7;
+    }
+
+    #nav {
+        background-color: #161664;
+    }
+
+    #presentation {
+        background-color: #161664;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        text-align: center;
+    }
+
+    #me {
+        color: white;
+    }
+
+    #em {
+        color: #8C8CCA;
+    }
+
+    #about{
+        background-color: #8C8CCA;
+    }
+
+    #portfolio {
+        background-color: #404094;
+        color: white;
+    }
+
+    #contact {
+        background-color: #2A2A7F;
+        color: white;
+
+    }
+
+    h6 {
+        color: #8C8CCA;
+    }
+
+    .fa {
+        color: white;
+        padding: 20px;
+        font-size: 20px;
+        margin: 10px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+    footer {
+        margin: 0;
+        padding: 0;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1198px) and (min-width: 768px){
+    body {
+        height: 100%;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+    }
+
+    div {
+        padding: 5% 3%;
+    }
+
+    .navbar-brand {
+        color: aliceblue;
+    }
+
+    .navbar {
+        position: fixed;
+        z-index: 10;
+        width: 100%;
+    }
+
+    .nav-item{
+        color: white;
+        float: right;
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    .nav-item:hover {
+        opacity: 0.7;
+    }
+
+    #nav {
+        background-color: #161664;
+    }
+
+    #presentation {
+        background-color: #161664;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        text-align: center;
+    }
+
+    #me {
+        color: white;
+    }
+
+    #em {
+        color: #8C8CCA;
+    }
+
+    #about{
+        background-color: #8C8CCA;
+    }
+
+    #portfolio {
+        background-color: #404094;
+        color: white;
+    }
+
+    #contact {
+        background-color: #2A2A7F;
+        color: white;
+
+    }
+
+    h6 {
+        color: #8C8CCA;
+    }
+
+    .fa {
+        color: white;
+        padding: 20px;
+        font-size: 20px;
+        margin: 10px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+    footer {
+        margin: 0;
+        padding: 0;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 767px) and (min-width: 536px){
+    body {
+        height: 100%;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+    }
+
+    div {
+        padding: 5% 3%;
+    }
+
+    .navbar-brand {
+        color: aliceblue;
+    }
+
+    .navbar {
+        position: fixed;
+        z-index: 10;
+        width: 100%;
+    }
+
+    .nav-item{
+        color: white;
+        float: right;
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    .nav-item:hover {
+        opacity: 0.7;
+    }
+
+    #nav {
+        background-color: #161664;
+    }
+
+    #presentation {
+        background-color: #161664;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        text-align: center;
+    }
+
+    #me {
+        color: white;
+    }
+
+    #em {
+        color: #8C8CCA;
+    }
+
+    #about{
+        background-color: #8C8CCA;
+    }
+
+    #portfolio {
+        background-color: #404094;
+        color: white;
+    }
+
+    #contact {
+        background-color: #2A2A7F;
+        color: white;
+
+    }
+
+    h6 {
+        color: #8C8CCA;
+    }
+
+    .fa {
+        color: white;
+        padding: 20px;
+        font-size: 20px;
+        margin: 10px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+    footer {
+        margin: 0;
+        padding: 0;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 535px) {
+    body {
+        height: 100%;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+    }
+
+    div {
+        padding: 5% 3%;
+    }
+
+    .navbar-brand {
+        color: aliceblue;
+        font-size: 10px;
+    }
+
+    .navbar {
+        position: fixed;
+        z-index: 10;
+        width: 100%;
+    }
+
+    .nav-item{
+        color: white;
+        float: right;
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        font-size: 11px;
+    }
+
+    .nav-item:hover {
+        opacity: 0.7;
+    }
+
+    #nav {
+        background-color: #161664;
+    }
+
+    #presentation {
+        background-color: #161664;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        text-align: center;
+    }
+
+    #me {
+        color: white;
+    }
+
+    #em {
+        color: #8C8CCA;
+    }
+
+    #about{
+        background-color: #8C8CCA;
+    }
+
+    #portfolio {
+        background-color: #404094;
+        color: white;
+    }
+
+    #contact {
+        background-color: #2A2A7F;
+        color: white;
+
+    }
+
+    h6 {
+        color: #8C8CCA;
+    }
+
+    .fa {
+        color: white;
+        padding: 20px;
+        font-size: 20px;
+        margin: 10px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+    footer {
+        margin: 0;
+        padding: 0;
+        font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+    }
+}

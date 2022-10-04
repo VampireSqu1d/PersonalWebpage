@@ -1,0 +1,26 @@
+@import "https://fonts.googleapis.com/css?family=Comfortaa:400,700,300|Quattrocento";
+.game {
+  align-content: center;
+  align-self: center;
+  align-items: center;
+}
+
+body {
+  background-color: #000;
+  font-family: Comfortaa, Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: azure;
+  align-content: center;
+}
+
+p {
+  text-align: center;
+  color: azure;
+  align-content: center;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=CarAnimation.e9486174.css.map */

@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:400,700,300|Quattrocento");
+.game {
+    align-content: center;
+    align-self: center;
+    align-items: center;
+}
+
+body {
+    background-color: black;
+    font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    align-content: center;
+    text-align: center;
+    color: azure;
+}
+
+p {
+    align-content: center;
+    text-decoration: none;
+    text-align: center;
+    color: azure;
+}

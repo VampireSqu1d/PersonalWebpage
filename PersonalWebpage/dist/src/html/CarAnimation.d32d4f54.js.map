@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,OAAO,SAAS,MAAM,CAAC,KAAK;IAC9B,aAAc;QACV,KAAK,CAAC,IAAI,CAAC,CAAC;KACf;CACJ","sources":["src/js/CarAnimation/scenes/UIScene.js"],"sourcesContent":["class UIScene extends Phaser.Scene {\r\n    constructor() {\r\n        super('UI');\r\n    }\r\n}"],"names":[],"version":3,"file":"CarAnimation.d32d4f54.js.map","sourceRoot":"/__parcel_source_root/"}
